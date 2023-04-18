@@ -1,2 +1,3 @@
 # pony
 Nesme
+nslookup
